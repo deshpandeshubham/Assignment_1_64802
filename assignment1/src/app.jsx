@@ -1,12 +1,12 @@
 const element = (
-    <div>
-        <div>
-            <h1>Shubham Deshpande</h1>
+    <div id="mainDiv">
+        <div id="nameDiv">
+            <h1>SHUBHAM DESHPANDE</h1>
         </div>
-        <div>
-            <img src="img01.jpg" alt="My Photo" width="300" height="300"></img><br/><br/>
+        <div id="imgDiv">
+            <img id="imgID" src="img01.jpg" alt="My Photo" width="300" height="300"></img><br/><br/>
         </div>
-        <div>
+        <div id="introDiv">
             Always Smiling :), honest and helpful ! <br/>
             Well that is an informal introduction, let us talk about something technical <br/>
             Have 2 years of experience in software development <br/>
@@ -14,10 +14,10 @@ const element = (
             Love web development <br/>
             And yes playing video games and cricket are some of the many hobbies.<br/><br/>
         </div>
-        <div>
-            <a href="https://github.com/deshpandeshubham">VIEW MY GITHUB REPO</a>
+        <div id="gitDiv">
+            <a id="gitLinkID" href="https://github.com/deshpandeshubham">VIEW MY GITHUB REPO</a>
         </div>
     </div>
 )
    
-ReactDOM.render(element, document.getElementById('root'));
+ReactDOM.render(element, document.getElementById('section1'));
