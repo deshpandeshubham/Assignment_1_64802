@@ -8,10 +8,10 @@ const element = (
         </div>
         <div id="introDiv">
             Always Smiling :), honest and helpful ! <br/>
-            Well that is an informal introduction, let us talk about something technical <br/>
-            Have 2 years of experience in software development <br/>
+            Well that is an informal introduction, let us talk about something technical, <br/>
+            Have 2 years of experience in software development, <br/>
             Slightly biased towards using Java, but always ready to work on any new technology <br/>
-            Love web development <br/>
+            Passionate about web development. <br/>
             And yes playing video games and cricket are some of the many hobbies.<br/><br/>
         </div>
         <div id="gitDiv">

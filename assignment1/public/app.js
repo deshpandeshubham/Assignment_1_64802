@@ -12,7 +12,7 @@ const element = React.createElement("div", {
   height: "300"
 }), React.createElement("br", null), React.createElement("br", null)), React.createElement("div", {
   id: "introDiv"
-}, "Always Smiling :), honest and helpful ! ", React.createElement("br", null), "Well that is an informal introduction, let us talk about something technical ", React.createElement("br", null), "Have 2 years of experience in software development ", React.createElement("br", null), "Slightly biased towards using Java, but always ready to work on any new technology ", React.createElement("br", null), "Love web development ", React.createElement("br", null), "And yes playing video games and cricket are some of the many hobbies.", React.createElement("br", null), React.createElement("br", null)), React.createElement("div", {
+}, "Always Smiling :), honest and helpful ! ", React.createElement("br", null), "Well that is an informal introduction, let us talk about something technical, ", React.createElement("br", null), "Have 2 years of experience in software development, ", React.createElement("br", null), "Slightly biased towards using Java, but always ready to work on any new technology ", React.createElement("br", null), "Passionate about web development. ", React.createElement("br", null), "And yes playing video games and cricket are some of the many hobbies.", React.createElement("br", null), React.createElement("br", null)), React.createElement("div", {
   id: "gitDiv"
 }, React.createElement("a", {
   id: "gitLinkID",
